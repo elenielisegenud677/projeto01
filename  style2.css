@@ -22,7 +22,7 @@
     color: pink;
     text-decoration: none;
 }
-#link-urugray;hover{
+#link-urugray:hover{
     font-size: 30px;
     color: orange;
     text-decoration: double;
