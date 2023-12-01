@@ -10,6 +10,31 @@
     color: red;
     margin: 50px;
 }
+.img-links{
+    border: 20px;
+    border-style: dashed;
+    border-color: blueviolet;
+    background-color: coral;
+    color: aquamarine;
+    margin: var();
+}
+.img-links{
+    border: 20px;
+    border-style: dashed;
+    border-color: blueviolet;
+    background-color: coral;
+    color: aquamarine;
+    margin: var();
+}
+.img-links{
+    border: 20px;
+    border-style: dashed;
+    border-color: blueviolet;
+    background-color: coral;
+    color: aquamarine;
+    margin: var();
+}
+
 #icone-rodape{
     width: 25px;
     border: 5px;
@@ -26,8 +51,4 @@
     font-size: 30px;
     color: orange;
     text-decoration: double;
-}
-.img-links{
-    font-size: 70px;
-    
 }
