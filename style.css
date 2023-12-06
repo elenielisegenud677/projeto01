@@ -1,7 +1,5 @@
 .cabecalho{
     background-color: white;
-    color: aquamarine;
-    
 }
 
 .principal{
@@ -14,6 +12,7 @@
     color: white;
     text-align: center;
 }
+
 #imagem-uruguai{
     width: 400px;
     border: 2px blue double;
