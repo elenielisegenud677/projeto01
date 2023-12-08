@@ -1,18 +1,15 @@
 .cabecalho{
     background-color: white;
 }
-
 .principal{
     background-color: aqua;
     color: dodgerblue;
 }
-
 .rodape{
     background-color: black;
     color: white;
     text-align: center;
 }
-
 #imagem-uruguai{
     width: 400px;
     border: 2px blue double;
